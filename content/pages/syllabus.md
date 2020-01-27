@@ -89,13 +89,12 @@ At the end of each lecture, we will ask you to take a short, graded quiz on the 
 #### Advanced Sections <a name='advanced-sections'></a>
 The course will include advanced sections for 209b students and will cover a different topic per week. &nbsp;These are 75 min lectures and they will cover advanced topics like the mathematical underpinnings of the methods seen in lecture and lab and extensions of those methods. &nbsp;The material covered in the advanced sections is </span><strong>required </strong> for all AC209b students. Tentative topics are:
 
-* Earth Mover's Distance
-* Dropout
-* ConvNets: LeNet, AlexNet, VGG-15, ResNet and Inception
-* LSTM, GRU in NLP
-* Neural style transfer learning
-* Deep Reinforcement Learning
+* ResNet, Dense-Net, res-Next and Inception and transfer learning
+* Segmentation Techniques, YOLO, Unet and M-RCNN
+* RNN, Echo State
 * Variational Inference
+* GANS. Cycle GANS, etc.
+* RL
 
 #### Exams <a name='exams'></a>
 There are no exams in this course.
@@ -119,7 +118,7 @@ All course materials, including lecture notes, lab notes, and section notes will
 Assignments will only be posted on Canvas.
 
 #### Working Environment
-You will be working in Jupyter Notebooks which you can run in your own machine or in the SEAS JupyterHub cloud (details on this to come).
+You will be working in Jupyter Notebooks which you can run in your own machine or in the SEAS <a href="https://canvas.harvard.edu/courses/65462/external_tools/60899?display=borderless">JupyterHub</a> cloud (see <a href="https://harvard-iacs.github.io/2020-CS109B/labs/lab01/">lab 1</a> for details).
 
 #### Recommended Textbooks <a name="recommended-textbooks"></a>
 
