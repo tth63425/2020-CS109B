@@ -72,6 +72,8 @@ Upon successful completion of this course, you should feel comfortable with the 
 
 ### Course Components <a name='course-components'></a>
 There will be live video feed available only to continuing education students for lectures, labs, and advanced sections. Recordings for all other students will be available within 24 hrs.
+<br/>
+Video streams and recordings can be accessed from the <a href="https://canvas.harvard.edu/courses/65462/external_tools/61068">Videos</a> section on Canvas.
 
 #### Lectures <a name='lectures'></a>
 The class meets twice a week for lectures. Attending lectures is a crucial component of learning the material presented in this course.
@@ -114,7 +116,10 @@ There will be eight graded homework assignments. Some of them will be due one we
 
 ### Course Resources <a name='course-resources'></a>
 #### Online Materials <a name='online-materials'></a>
-All course materials, including lecture notes, lab notes, and section notes will be published in the class GitHub (available soon).
+All course materials, including lecture notes, lab notes, and section notes will be published on the <a href="https://github.com/Harvard-IACS/2020-CS109B/tree/master/content">course GitHub repo</a> as well as the public site's <a href="https://harvard-iacs.github.io/2020-CS109B/pages/materials.html">Materials section</a>.
+<br/>
+**Note:** Lecture content for weeks 1-3 is only available to registered students through the Materals section.
+<br/>
 Assignments will only be posted on Canvas.
 
 #### Working Environment
