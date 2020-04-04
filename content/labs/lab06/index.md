@@ -1,10 +1,10 @@
-Title: Lab 06:
+Title: Lab 6: CNNs-2
 Category: labs
-Date: 2019-11-25
-Author: 
+Date: 2020-03-09
+Author: Eleni Kaxiras
 Slug: lab06
-Tags: ADD TAGS HERE
+Tags: CNNs
 
 
-## Slides
-<!-- - [PDF | Lecture 1: Description]({attach}presentation/Lecture1_Data.pdf) -->
+## Notebook
+[Lab6]({filename}notebook/cs109b_lab6_CNN2_2020.ipynb)
